@@ -37,7 +37,7 @@ cout << "Access Denied: You are not authorized to view this record.\n";
 int main()
 {
 
-Dr. Anjali Ghongade
+Tanishka Mohite
 
 Page 2
 // Using a standard fixed-size array instead of vector
